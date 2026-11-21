@@ -1,0 +1,17 @@
+Real World 480x224 — Unciv map data
+
+Copyright (c) 2026 the map author.
+
+This map (the .map file, its terrain/resource data, and the description) is
+licensed under the Creative Commons Attribution 4.0 International License.
+
+You are free to share and adapt the material for any purpose, including
+commercially, as long as you give appropriate credit.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Notes:
+- This repository does not include Unciv itself. Unciv is licensed under
+  MPL 2.0 (https://github.com/yairm210/Unciv).
+- The map is an artistic interpretation of real-world geography, generated
+  from public geographic references, not a surveying dataset.
